@@ -1,0 +1,57 @@
+Added Component: Designator=*1(XT90)
+Added Component: Designator=B1(Motor)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor (Radial); 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RB5-10.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=ESP devkit 1(ESP32-DEVKIT V1)
+Added Component: Designator=REG1(Mini-360)
+Added Component: Designator=U1(DRV8871DDAR)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Good"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DRV8871DDA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "HSOIC-8 Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/DRV8871DDA/Texas%20Instruments/view-part/547750/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Texas_Instruments-Purchase-URL"; Value = "https://snapeda.com/shop?store=Texas+Instruments&id=547750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=*1-1
+Added Pin To Net: NetName=GND Pin=ESP devkit 1-14
+Added Pin To Net: NetName=GND Pin=ESP devkit 1-17
+Added Pin To Net: NetName=GND Pin=REG1-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Net: Name=GND
+Added Pin To Net: NetName=IN1_driver Pin=ESP devkit 1-24
+Added Pin To Net: NetName=IN1_driver Pin=U1-3
+Added Net: Name=IN1_driver
+Added Pin To Net: NetName=IN2_driver Pin=ESP devkit 1-25
+Added Pin To Net: NetName=IN2_driver Pin=U1-2
+Added Net: Name=IN2_driver
+Added Pin To Net: NetName=LED Pin=ESP devkit 1-11
+Added Net: Name=LED
+Added Pin To Net: NetName=motor+ Pin=B1-1
+Added Pin To Net: NetName=motor+ Pin=U1-6
+Added Net: Name=motor+
+Added Pin To Net: NetName=motor- Pin=B1-2
+Added Pin To Net: NetName=motor- Pin=U1-8
+Added Net: Name=motor-
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR1_1 Pin=REG1-4
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=VCC Pin=*1-2
+Added Pin To Net: NetName=VCC Pin=REG1-1
+Added Pin To Net: NetName=VCC Pin=U1-5
+Added Net: Name=VCC
+Added Pin To Net: NetName=VIN  Pin=ESP devkit 1-15
+Added Pin To Net: NetName=VIN  Pin=REG1-3
+Added Net: Name=VIN 
+Added Class: Name=Sheet2
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
